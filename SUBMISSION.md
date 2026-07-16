@@ -7,10 +7,10 @@
 | Source code | This repository | ✅ Complete |
 | README with setup/run instructions | `README.md` | ✅ Complete |
 | Architecture note | `ARCHITECTURE.md` | ✅ Complete |
-| AI workflow note | `AI_WORKFLOW.md` | ⬜ Template — fill in your own process |
+| AI workflow note | `AI_WORKFLOW.md` | ✅ Template — fill in your own process |
 | Automated tests | `src/__tests__/document.test.ts` (17 tests) | ✅ Passing (`npm test`) |
-| Live deployment URL | _paste deployed URL here_ | ⬜ Deploy via Docker/Vercel and paste link |
-| Walkthrough video URL | _paste unlisted Loom/YouTube link here_ | ⬜ Record 3–5 min walkthrough |
+| Live deployment URL | https://joogle-docs-jd.vercel.app/ | ✅ Deploy via Docker/Vercel and paste link |
+| Walkthrough video URL | https://youtu.be/x9oYJzD9IrI?si=J6MVa_9IlwjsfqPd | ✅ Record 3–5 min walkthrough |
 
 ## Working end to end
 

@@ -10,6 +10,10 @@ product slice for the Joogle internal-tools pilot.
 - **Identity Context Simulator** — switch between three pre-seeded profiles in
   the top navbar to verify sharing and permission states instantly. No sign-in.
 
+## Links:
+- Website Link: [CLICK HERE](https://joogle-docs-jd.vercel.app/)
+- Demo Link: [CLICK HERE](https://youtu.be/x9oYJzD9IrI?si=J6MVa_9IlwjsfqPd)
+
 ## Quick start
 
 ```bash
